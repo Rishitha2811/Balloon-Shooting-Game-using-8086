@@ -68,5 +68,5 @@ In this project, I worked with EMU 8086 to build our project. We learnt about ma
 concepts about assembly language in this process. Our project "Balloon Shooter with 
 EMU8086" works efficiently. We can play this game balloon shooter on our desktop using this 
 project. Based on how many balloons hit or miss by the user the hits and misses count is 
-modified. The archer can move up, down and shoot using the keyboard controls. It’s a userfriendly, fun and interactive game play of the original old generator pixel game of the balloon shooter game.
+modified. The archer can move up, down and shoot using the keyboard controls. It’s a user-friendly, fun and interactive game play of the original old generator pixel game of the balloon shooter game.
 
